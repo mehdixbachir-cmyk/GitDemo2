@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Hello Git!");
         System.out.println("Salam Mehdi, hadi modification jdida!");
         System.out.println("bonjour madame");
+        System.out.println("Bonjour Madame, test workflow Git!");
+
     }
 }
